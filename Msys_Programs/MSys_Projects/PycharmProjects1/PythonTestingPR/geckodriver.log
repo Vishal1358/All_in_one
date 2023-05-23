@@ -1,0 +1,15 @@
+1661328398409	geckodriver	INFO	Listening on 127.0.0.1:60789
+1661328401618	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60790" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofilevHdH5r"
+1661328405527	Marionette	INFO	Marionette enabled
+1661328405539	Marionette	INFO	Listening on port 60800
+WebDriver BiDi listening on ws://localhost:60790
+Read port: 60800
+1661328406492	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\lenovo\\AppData\\Local\\Temp\\rust_mozprofilevHdH5r\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60790/devtools/browser/de5bd48c-3ec6-46a8-a636-f806a4d15286
+1661328443597	Marionette	WARN	TimedPromise timed out after 5000 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.js:237:24
+TimedPromise@chrome://remote/content/marionette/sync.js:222:10
+GeckoDriver.prototype.minimizeWindow@chrome://remote/content/marionette/driver.js:2451:11
+1661331564728	Marionette	INFO	Stopped listening on port 60800
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.

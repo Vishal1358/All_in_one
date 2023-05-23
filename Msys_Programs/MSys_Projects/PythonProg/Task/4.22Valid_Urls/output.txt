@@ -1,0 +1,5 @@
+1. https://, valid
+2. https ://, invalid
+3. https://www.facebook.com, valid
+4. https://www.facebo0ok.com, valid
+5. https://www.faceb(ok.com, invalid

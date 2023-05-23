@@ -1,0 +1,36 @@
+09/27/2022 12:49:42 PM - LoginPage - INFO: Element found with locator: SIGN IN and  locatorType: link
+09/27/2022 12:49:43 PM - LoginPage - INFO: Clicked on element with locator: SIGN IN locatorType: link
+09/27/2022 12:49:43 PM - LoginPage - INFO: Element not found with locator: //input[@placeholder='Email Address'] and  locatorType: id
+09/27/2022 12:49:43 PM - LoginPage - INFO: Cannot send data on the element with locator: //input[@placeholder='Email Address'] locatorType: id
+09/27/2022 12:49:43 PM - LoginPage - INFO: Element not found with locator: //input[@placeholder='Password'] and  locatorType: id
+09/27/2022 12:49:43 PM - LoginPage - INFO: Cannot send data on the element with locator: //input[@placeholder='Password'] locatorType: id
+09/27/2022 12:49:43 PM - LoginPage - INFO: Element not found with locator: //input[@type='submit'] and  locatorType: name
+09/27/2022 12:49:43 PM - LoginPage - INFO: Cannot click on the element with locator: //input[@type='submit'] locatorType: name
+09/27/2022 12:49:43 PM - LoginPage - INFO: Element found with locator: SIGN IN and  locatorType: link
+09/27/2022 12:49:44 PM - LoginPage - INFO: Clicked on element with locator: SIGN IN locatorType: link
+09/27/2022 12:49:44 PM - LoginPage - INFO: Element not found with locator: //input[@placeholder='Email Address'] and  locatorType: id
+09/27/2022 12:49:44 PM - LoginPage - INFO: Cannot send data on the element with locator: //input[@placeholder='Email Address'] locatorType: id
+09/27/2022 12:49:44 PM - LoginPage - INFO: Element not found with locator: //input[@placeholder='Password'] and  locatorType: id
+09/27/2022 12:49:44 PM - LoginPage - INFO: Cannot send data on the element with locator: //input[@placeholder='Password'] locatorType: id
+09/27/2022 12:49:44 PM - LoginPage - INFO: Element not found with locator: //input[@type='submit'] and  locatorType: name
+09/27/2022 12:49:44 PM - LoginPage - INFO: Cannot click on the element with locator: //input[@type='submit'] locatorType: name
+09/27/2022 01:48:01 PM - LoginPage - INFO: Element found with locator: SIGN IN and  locatorType: link
+09/27/2022 01:48:01 PM - LoginPage - INFO: Clicked on element with locator: SIGN IN locatorType: link
+09/27/2022 01:48:01 PM - LoginPage - INFO: Element not found with locator: //input[@placeholder='Email Address'] and  locatorType: id
+09/27/2022 01:48:01 PM - LoginPage - INFO: Cannot send data on the element with locator: //input[@placeholder='Email Address'] locatorType: id
+09/27/2022 01:48:02 PM - LoginPage - INFO: Element not found with locator: //input[@placeholder='Password'] and  locatorType: id
+09/27/2022 01:48:02 PM - LoginPage - INFO: Cannot send data on the element with locator: //input[@placeholder='Password'] locatorType: id
+09/27/2022 01:48:02 PM - LoginPage - INFO: Element not found with locator: //input[@type='submit'] and  locatorType: name
+09/27/2022 01:48:02 PM - LoginPage - INFO: Cannot click on the element with locator: //input[@type='submit'] locatorType: name
+09/27/2022 01:48:02 PM - LoginPage - INFO: Element not found with locator: //div[@id='page']/div[2]/div/div[@class='row']//form[@role='form']//span[@class='dynamic-text help-block'] and  locatorType: xpath
+09/27/2022 01:48:02 PM - LoginPage - INFO: Element not found
+09/27/2022 01:48:02 PM - LoginPage - INFO: Element found with locator: SIGN IN and  locatorType: link
+09/27/2022 01:48:05 PM - LoginPage - INFO: Clicked on element with locator: SIGN IN locatorType: link
+09/27/2022 01:48:05 PM - LoginPage - INFO: Element not found with locator: //input[@placeholder='Email Address'] and  locatorType: id
+09/27/2022 01:48:05 PM - LoginPage - INFO: Cannot send data on the element with locator: //input[@placeholder='Email Address'] locatorType: id
+09/27/2022 01:48:05 PM - LoginPage - INFO: Element not found with locator: //input[@placeholder='Password'] and  locatorType: id
+09/27/2022 01:48:05 PM - LoginPage - INFO: Cannot send data on the element with locator: //input[@placeholder='Password'] locatorType: id
+09/27/2022 01:48:05 PM - LoginPage - INFO: Element not found with locator: //input[@type='submit'] and  locatorType: name
+09/27/2022 01:48:05 PM - LoginPage - INFO: Cannot click on the element with locator: //input[@type='submit'] locatorType: name
+09/27/2022 01:48:05 PM - LoginPage - INFO: Element not found with locator: //*[@id='navbar']//span[text()='User Settings'] and  locatorType: xpath
+09/27/2022 01:48:05 PM - LoginPage - INFO: Element not found

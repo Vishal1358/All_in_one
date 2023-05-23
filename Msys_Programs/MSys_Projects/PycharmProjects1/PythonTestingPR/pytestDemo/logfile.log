@@ -1,0 +1,18 @@
+2022-08-30 13:12:03,098 :INFO : pytestDemo.test_logging :Information statement
+2022-08-30 13:12:03,099 :WARNING : pytestDemo.test_logging :Something is in warning
+2022-08-30 13:12:03,099 :ERROR : pytestDemo.test_logging :A Major error has happend
+2022-08-30 13:12:03,099 :CRITICAL : pytestDemo.test_logging :Critical issue
+2022-08-30 13:12:39,145 :INFO : pytestDemo.test_logging :Information statement
+2022-08-30 13:12:39,145 :WARNING : pytestDemo.test_logging :Something is in warning
+2022-08-30 13:12:39,145 :ERROR : pytestDemo.test_logging :A Major error has happend
+2022-08-30 13:12:39,145 :CRITICAL : pytestDemo.test_logging :Critical issue
+2022-08-30 13:13:45,500 :INFO : pytestDemo.test_logging :Information statement
+2022-08-30 13:13:45,501 :WARNING : pytestDemo.test_logging :Something is in warning
+2022-08-30 13:13:45,501 :ERROR : pytestDemo.test_logging :A Major error has happend
+2022-08-30 13:13:45,501 :CRITICAL : pytestDemo.test_logging :Critical issue
+2022-08-30 13:15:32,581 :INFO : pytestDemo.test_logging :Information statement
+2022-08-30 13:15:32,582 :WARNING : pytestDemo.test_logging :Something is in warning
+2022-08-30 13:15:32,583 :ERROR : pytestDemo.test_logging :A Major error has happend
+2022-08-30 13:15:32,584 :CRITICAL : pytestDemo.test_logging :Critical issue
+2022-08-30 16:25:04,158 :INFO : pytestDemo.BaseClass :Rahul
+2022-08-30 16:25:04,163 :INFO : pytestDemo.BaseClass :rahulshettyacademy.com
